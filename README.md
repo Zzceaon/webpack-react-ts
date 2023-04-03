@@ -1,1 +1,1 @@
-# webpack-react-ts
+# webpack5-react18-ts

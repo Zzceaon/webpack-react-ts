@@ -1,0 +1,10 @@
+#root .smallImg {
+  width: 100px;
+  height: 100px;
+  background: url('@/assets/imgs/left100kb.jpg') no-repeat;
+}
+#root .bigImg {
+  width: 150px;
+  height: 100px;
+  background: url('@/assets/imgs/right100kb.jpg') no-repeat;
+}
